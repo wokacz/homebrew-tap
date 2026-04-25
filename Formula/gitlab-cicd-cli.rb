@@ -4,7 +4,7 @@ class GitlabCicdCli < Formula
   desc "Monitor GitLab CI/CD pipelines, jobs, registries and merge requests from your terminal"
   homepage "https://github.com/wokacz/cicd-cli"
   url "https://github.com/wokacz/cicd-cli/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+  sha256 "f07c0e0ff93df9605a02d8658e3b1825b3149856485a7da76518199e3abd9a02"
   license "MIT"
 
   depends_on "python@3.12"
